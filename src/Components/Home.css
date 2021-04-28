@@ -1,0 +1,46 @@
+
+#heading h3 {
+    font-size: 70px;
+    transition: all 0.5s ease 0.3s;
+}
+@media screen and (max-width : 580px) {
+   #heading h3 {
+       font-size: 40px;
+   }
+    
+}
+@media screen and (max-width : 440px) {
+    #heading h3 {
+        font-size: 20px;
+    }
+     
+ }
+ @media screen and (max-width : 330px) {
+    #heading h3 {
+        font-size: 16px;
+    }
+     
+ }
+ @media screen and (max-width : 650px) {
+    #header-text {
+        padding : 18px 28px;
+
+    }
+    
+}
+@media screen and (max-width : 530px) {
+    #header-text {
+        padding : 18px 22px;
+
+    }
+    
+}
+@media screen and (max-width : 1050px) {
+   #root {
+    margin: 0px,
+   }
+    
+}
+.hero {
+    overflow-x: hidden;
+}

@@ -1,0 +1,8 @@
+@media screen and (max-width : 500px) {
+    #root {
+        margin: 30px auto;
+    }
+}
+#body {
+    overflow-x: hidden;
+}
